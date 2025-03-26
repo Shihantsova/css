@@ -1,0 +1,62 @@
+body {
+  
+background-color: rgb(242, 242, 242);
+color: #0f1410;
+font-size: 16px;
+font-weight: medium;
+}
+.avatar {
+
+    width: 200px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px rgba(red, green, blue, alpha 25);
+}
+a {
+    color:rgb(6, 6, 6);
+
+}
+a:hover {
+    text-decoration:;
+}
+a:visited {
+    color:rgb(141, 133, 148);
+}
+.contact h2
+text-align:right;
+{
+
+}
+.tablet label{
+    display: block;
+    front-size: 14px;
+
+
+}
+.tablet input,
+.tablet textarea {
+    width: 100%; 
+    box-sizing: border-box;
+    background-color: inherit;
+    border: none;
+    border-bottom: 1px solid #9e9898;
+    color: #0f1410;
+    padding: 15px 0px 10px;
+    outline: none;
+    font-family: inherit;
+    display: flex;
+margin-bottom: 20px;
+
+}
+.tablet {
+    background-color: rgb(246, 245, 247);
+}
+.tablet > .form-group:last-child {
+    margin-right: 0;
+  }
+  
+.btn {
+    padding: 15px 20px;
+    border: none;
+  font-family: inherit;
+  cursor: pointer;
+}
